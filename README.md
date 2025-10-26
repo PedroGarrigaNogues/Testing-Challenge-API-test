@@ -12,26 +12,6 @@ Webpage: http://testingchallenges.thetestingmap.org/index.php
 
 Image with the screenshot: ![alt text](image.png)
 
-1 Empty Value ""
-2 Space Value " "
-3 Mínimum Value "f"
-4 Average Value "Pedro"
-5 More than máximum Value "+30 letters"
-6 30 letters
-7 Space in the beginning
-8 Space in the end
-9 Space in the middle
-10 Html tags "<tag>"
-11 Looking at the page source "dfjwGGe82H43g3uRiy53h--"
-12 Basic sql injection "'basic sql injection'"
-13 Basic XSS "<script>alert(1)</script>"
-14 Check the cookie "oi32jnxd42390slk345"
-15 Become the user admin by changing the input value="0" to value="1"
-16 Non alphabetic chars "Áéîõü"
-17 Non ASCII chars "Áéîõü"
-17 Non ASCII chars "Áéîõü"
-18 Missing CSS
-
 2. Techniques used:
 
 Initially doing the "usual" basic tests like inserting empty or only numerical characters and got 10 answers.
