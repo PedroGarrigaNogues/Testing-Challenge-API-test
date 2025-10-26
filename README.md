@@ -9,11 +9,11 @@ Testing Challenge #1 - web testing:
 
 1. Answers:
 
-Image with the screenshot: ![alt text](image.png)
+![alt text](image.png)
 
 2. Techniques used:
 
-Initially doing the "usual" basic tests like inserting empty or only numerical characters and got 10 answers.
+Initially my whole plan was doing the "usual" basic tests like inserting empty or only numerical characters, but I quickly got stuck around 10 answers.
 
 After seeing this wasn't getting me far, I tried chatgpt, that gave 18 solutions, but after trying to replicate them I found out 7 where wrong. 
 
@@ -21,4 +21,4 @@ Then I started googling for answers and found out many people saying that you ha
 
 3. What I've found interesting:
 
-Honestly, playing with the devtools for so long, since I asumed in this kind of login test that the main thing that matters is the inputs, and also it kinda has expanded the inputs I use to play with, for instance, I'm not used to add a test with Html tags to it to my login tests, so it kinda shows there's always room to improve even the basic stuff you've done 100 times.
+Honestly, playing with the devtools for so long, since I asumed in this kind of login test that the main thing that matters are the inputs,it even expanded the inputs I consider, for instance, I'm not used to add a test with html tags to it to my login tests, so it kinda shows there's always room to improve even the basic stuff you've done 100 times.
