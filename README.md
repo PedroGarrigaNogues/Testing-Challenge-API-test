@@ -21,4 +21,4 @@ Then I started googling for answers and found out many people saying that you ha
 
 3. What I've found interesting:
 
-Honestly, playing with the devtools for so long, since I asumed in this kind of login test that the main thing that matters are the inputs,it even expanded the inputs I consider, for instance, I'm not used to add a test with html tags to it to my login tests, so it kinda shows there's always room to improve even the basic stuff you've done 100 times.
+Honestly, playing with the devtools for so long in a login exercise, since I asumed in this kind of login test that the main thing that matters are the inputs,it even expanded the inputs I consider, for instance, I'm not used to add a test with html tags to it to my login tests, so it kinda shows there's always room to improve even the basic stuff you've done 100 times.
