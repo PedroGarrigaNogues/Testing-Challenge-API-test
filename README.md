@@ -1,7 +1,7 @@
 Web Testing Challenge #1 — Test plan, techniques and reflections
 
 Intro:
-The purpose of this repository is to do two tests, the first one is a test challenge that consists in testing in first solving a testing exercise in a webpage called [testingchallemges-](http://testingchallenges.thetestingmap.org/index.php) and the second is doing an API test calling to an endpoint via cypress.
+The purpose of this repository is to do two tests, the first one is a test challenge that consists in solving a series testing exercises in a webpage called [testingchallemges-](http://testingchallenges.thetestingmap.org/index.php) and the second is doing an API test calling to an endpoint via cypress.
 
 I'll be showing the answers to the first in the rest of this readme.md and the API endpoint test will be in the other files, I'll just mention that the command to run cypress is npx cypress open.
 
